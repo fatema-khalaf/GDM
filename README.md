@@ -1,8 +1,7 @@
 # GDM
 a database for a graphic design institute called GDM (Graphic Design Masters).
 
-
-                                                                   --------User documentation--------
+User documentation
 
 showing how to deal with the application.
 This is the main interface that appears when running the application and it enables you to access all other interfaces through six buttons:
