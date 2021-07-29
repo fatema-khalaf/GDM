@@ -1,0 +1,45 @@
+c:\users\fatema\documents\visual studio 2017\Projects\GDM\GDM\bin\Debug\GDM.exe.config
+c:\users\fatema\documents\visual studio 2017\Projects\GDM\GDM\bin\Debug\GDM.exe
+c:\users\fatema\documents\visual studio 2017\Projects\GDM\GDM\bin\Debug\GDM.pdb
+c:\users\fatema\documents\visual studio 2017\Projects\GDM\GDM\obj\Debug\GDM.csprojResolveAssemblyReference.cache
+c:\users\fatema\documents\visual studio 2017\Projects\GDM\GDM\obj\Debug\GDM.Form1.resources
+c:\users\fatema\documents\visual studio 2017\Projects\GDM\GDM\obj\Debug\GDM.Form2.resources
+c:\users\fatema\documents\visual studio 2017\Projects\GDM\GDM\obj\Debug\GDM.Properties.Resources.resources
+c:\users\fatema\documents\visual studio 2017\Projects\GDM\GDM\obj\Debug\GDM.csproj.GenerateResource.Cache
+c:\users\fatema\documents\visual studio 2017\Projects\GDM\GDM\obj\Debug\GDM.exe
+c:\users\fatema\documents\visual studio 2017\Projects\GDM\GDM\obj\Debug\GDM.pdb
+C:\Users\Fatema\Documents\Visual Studio 2017\Projects\GDM\GDM\obj\Debug\GDM.Form3.resources
+C:\Users\Fatema\documents\visual studio 2017\Projects\GDM\GDM\obj\Debug\GDM.Form4.resources
+C:\Users\Fatema\documents\visual studio 2017\Projects\GDM\GDM\obj\Debug\GDM.Form5.resources
+C:\Users\Fatema\Documents\Visual Studio 2017\Projects\GDM\GDM\obj\Debug\GDM.Form6.resources
+C:\Users\Fatema\Documents\Visual Studio 2017\Projects\GDM\GDM\obj\Debug\GDM.Form7.resources
+C:\Users\Fatema\Desktop\GDM\GDM\bin\Debug\GDM.exe.config
+C:\Users\Fatema\Desktop\GDM\GDM\bin\Debug\GDM.exe
+C:\Users\Fatema\Desktop\GDM\GDM\bin\Debug\GDM.pdb
+C:\Users\Fatema\Desktop\GDM\GDM\obj\Debug\GDM.csprojResolveAssemblyReference.cache
+C:\Users\Fatema\Desktop\GDM\GDM\obj\Debug\GDM.Form1.resources
+C:\Users\Fatema\Desktop\GDM\GDM\obj\Debug\GDM.Form2.resources
+C:\Users\Fatema\Desktop\GDM\GDM\obj\Debug\GDM.Form3.resources
+C:\Users\Fatema\Desktop\GDM\GDM\obj\Debug\GDM.Form4.resources
+C:\Users\Fatema\Desktop\GDM\GDM\obj\Debug\GDM.Form5.resources
+C:\Users\Fatema\Desktop\GDM\GDM\obj\Debug\GDM.Form6.resources
+C:\Users\Fatema\Desktop\GDM\GDM\obj\Debug\GDM.Form7.resources
+C:\Users\Fatema\Desktop\GDM\GDM\obj\Debug\GDM.Properties.Resources.resources
+C:\Users\Fatema\Desktop\GDM\GDM\obj\Debug\GDM.csproj.GenerateResource.Cache
+C:\Users\Fatema\Desktop\GDM\GDM\obj\Debug\GDM.exe
+C:\Users\Fatema\Desktop\GDM\GDM\obj\Debug\GDM.pdb
+C:\Users\Fatema\Desktop\database\app\GDM\GDM\bin\Debug\GDM.exe.config
+C:\Users\Fatema\Desktop\database\app\GDM\GDM\bin\Debug\GDM.exe
+C:\Users\Fatema\Desktop\database\app\GDM\GDM\bin\Debug\GDM.pdb
+C:\Users\Fatema\Desktop\database\app\GDM\GDM\obj\Debug\GDM.csprojResolveAssemblyReference.cache
+C:\Users\Fatema\Desktop\database\app\GDM\GDM\obj\Debug\GDM.Form1.resources
+C:\Users\Fatema\Desktop\database\app\GDM\GDM\obj\Debug\GDM.Form2.resources
+C:\Users\Fatema\Desktop\database\app\GDM\GDM\obj\Debug\GDM.Form3.resources
+C:\Users\Fatema\Desktop\database\app\GDM\GDM\obj\Debug\GDM.Form4.resources
+C:\Users\Fatema\Desktop\database\app\GDM\GDM\obj\Debug\GDM.Form5.resources
+C:\Users\Fatema\Desktop\database\app\GDM\GDM\obj\Debug\GDM.Form6.resources
+C:\Users\Fatema\Desktop\database\app\GDM\GDM\obj\Debug\GDM.Form7.resources
+C:\Users\Fatema\Desktop\database\app\GDM\GDM\obj\Debug\GDM.Properties.Resources.resources
+C:\Users\Fatema\Desktop\database\app\GDM\GDM\obj\Debug\GDM.csproj.GenerateResource.Cache
+C:\Users\Fatema\Desktop\database\app\GDM\GDM\obj\Debug\GDM.exe
+C:\Users\Fatema\Desktop\database\app\GDM\GDM\obj\Debug\GDM.pdb
